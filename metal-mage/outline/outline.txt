@@ -6,7 +6,7 @@
 * He receives an amulet from Lok Tor. 
 *  Nathan is sent to the other world. And given his metal powers. 
 ---
-# Part 1 - Else-where-world
+# Part 1 - Else-world
 * This is where the world is introduced. 
 * This covers the period where Nathan is about 9 years old. 
 ## Grillbrick
@@ -60,7 +60,7 @@
 # Part 3 - Exile
 * Nafan learns that someone is searching for his amulet.
 * This covers the period between 14 - 16 years. 
-* Nafan goes in search of the one who wants his amulet hoping he can get a message back home.
+* -whereNafan goes in search of the one who wants his amulet hoping he can get a message back home.
 ## Old friends
 * Introduces Jack.
 * Introduces Ali-Kai race.
