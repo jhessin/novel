@@ -1,5 +1,5 @@
-\begin{document}
-\chapter*{Prologue}
+# Prologue
+
 Lok Tor peered out on an alien landscape. Strange lights without the familiar
 flicker of fire burned all across the landscape. With a minor exercise of his
 will the bottom of his flying craft became opaque. It had worked. The rift
@@ -19,22 +19,22 @@ it would die, but he knew the Source would be able to fix it, even though he
 didn't know how it such a thing was possible. If the prophet was right (and he
 had yet to be mistaken) this land had no magic.
 
-\textit{No matter, I must have faith}, he thought as his body ached. \textit{I
-must find a safe place to land.}
+*No matter, I must have faith*, he thought as his body ached. *I
+must find a safe place to land.*
 
 The craft settled into a large field a bit more loudly than Tor would have
 liked. He began running system diagnostics as well as setting his
-\textit{ferrovitae} to heal his many wounds. Once he was feeling better he
-would explore this new world. He just had to\ldots
+*ferrovitae* to heal his many wounds. Once he was feeling better he
+would explore this new world. He just had to ...
 
-< \textit{knock, knock} >
+< *knock, knock* >
 
 A light wrapping on the outer hull of his craft drew the Femian's attention.
 There was no way someone could have found his ship so quickly. He had been
-camouflaged\ldots but no, the stealth drive had failed, but even still it was
+camouflaged..., but no, the stealth drive had failed, but even still it was
 the dead of night, everyone should be sleeping.
 
-He focused to open a small view-port in a \textit{ferrovitae} portion of the
+He focused to open a small view-port in a *ferrovitae* portion of the
 ship. He could see a small human child cautiously walking around the ship and
 tapping on the outer hull. This was not good. Nothing was frightened so easily
 as a human child, and if the people of this realm thought him malevolent, he
@@ -55,4 +55,3 @@ Surely enough as soon as the boy was close enough to see the form of the Femian
 he gasped in shock. Tor cringed at the expected sight of the boy cowering in fear, but
 it didn't seem to last long as fear gave way to concern as the human child noticed
 his wounds.
-\end{document}
