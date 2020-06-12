@@ -16,7 +16,7 @@ needed to go.
 
 The fire of magic was fading from Eden, and with it many races that depended on
 it would die, but he knew the Source would be able to fix it, even though he
-didn't know how it such a thing was possible. If the prophet was right (and he
+didn't know how such a thing was possible. If the prophet was right (and he
 had yet to be mistaken) this land had no magic.
 
 *No matter, I must have faith*, he thought as his body ached. *I
