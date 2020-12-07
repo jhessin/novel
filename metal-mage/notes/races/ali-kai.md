@@ -13,3 +13,7 @@ be larger.
 Their symbiotic form (or Kai) has healing capabilities and can regenerate
 almost anything. They cannot survive long without a host as they have no
 circular-vascular system of their own yet they require oxygen like any brain.
+
+They are typically found trading in advanced technology for magical baubles.
+They are sound tradesman and can usually be depended upon to keep their word
+enev when it is only verbal.
