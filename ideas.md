@@ -9,3 +9,6 @@
 - Super Powered Universe Heroes
     - An inter-dimensional teleporter(powered)
     - A precognitive with autism(powered?)
+
+- A crossover novel: Jumping to Hogwarts
+    - David meets the people from Harry Potter
