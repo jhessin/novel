@@ -6,5 +6,5 @@ Dragons are immortal - being demons there is no way to destroy them, but only ba
 
 The children of dragons are not dragons but are called the [Nephelim][] Most prominent are the [Dracolings][] - which are identified by their scales.
 
-[Nephelim]: ./nephelim.md
-[Dracolings]: ./dracolings.md
+[Nephelim]: ./Nephelim.md
+[Dracolings]: ./Dracolings.md

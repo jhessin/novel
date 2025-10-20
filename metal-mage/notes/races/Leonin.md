@@ -1,6 +1,6 @@
-# Felimian (work in progress)
+# Leonin (work in progress)
 
-The Felimian are a cat-like race with prehensile tails. They do not have the
+The Leonin are a cat-like race with prehensile tails. They do not have the
 vocal range to speak, but instead use hand gestures to communicate.
 
 They are a standoffish race that prefer the company of their own kind to that

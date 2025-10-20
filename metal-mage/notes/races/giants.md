@@ -6,4 +6,4 @@ them as they are born.
 
 Giants are the oldest form of nephilim and the most common. Their intelligence
 is severely limited as they are apt to smash through any problem. They range
-between 9-15 feet and tend to weigh up to 800 lbs.
+between 9-15 feet and tend to weigh up to 900 lbs.

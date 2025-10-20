@@ -8,4 +8,4 @@ good races.
 [Dwarves](./dwarves.md)
 [Gnomes](./gnomes.md)
 [Ali-Kai](./ali-kai.md)
-[Felimian](./felimian.md)
+[Leonin](./Leonin.md)

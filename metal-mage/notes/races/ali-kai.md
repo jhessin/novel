@@ -16,4 +16,4 @@ circular-vascular system of their own yet they require oxygen like any brain.
 
 They are typically found trading in advanced technology for magical baubles.
 They are sound tradesman and can usually be depended upon to keep their word
-enev when it is only verbal.
+even when it is only verbal.
