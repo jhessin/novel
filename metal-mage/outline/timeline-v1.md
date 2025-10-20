@@ -1,7 +1,3 @@
-# 1990-05-13 Sunday
-
-Nathan hears the prophecy. Receives Bible from friend.
-
 # 1990-05-15 Tuesday
 
 Nathan is sent to else-world.
